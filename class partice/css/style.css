@@ -1,0 +1,10 @@
+
+.mg img{
+    text-align: center;
+    display: flex;
+    display: inline-block;
+    align-items: center;
+    margin: auto;
+    margin-left: auto;
+ 
+}
